@@ -1,6 +1,6 @@
 # Bug report
 
-[Issue link]()
+[Issue link](https://github.com/rust-lang/cargo/issues/8457)
 
 Reporoduction:
 ```bash
