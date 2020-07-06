@@ -1,0 +1,8 @@
+[package]
+name = "bar"
+version = "0.1.0"
+authors = ["Veetaha <veetaha2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lib_with_features = { path = "../lib_with_features", features = ["feat1"] }

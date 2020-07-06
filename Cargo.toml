@@ -1,0 +1,2 @@
+[workspace]
+members = ["unrelated_crate", "bin_crate", "lib_with_features"]
